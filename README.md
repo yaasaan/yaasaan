@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=10&color=0af3f7&width=435&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
-
-<h2 align="center">📊 My GitHub Language Stats</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=10&color=0af3f7&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaasaan&layout=compact&theme=tokyonight" alt="Top Languages" />
