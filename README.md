@@ -1,14 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=10&color=0af3f7&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaasaan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaasaan&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
+
+
 
 <!-- 
 
 ## 📊 My GitHub Language Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaasaan&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaasaan&layout=compact&theme=tokyonight&hide=html,css)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=10&color=0af3f7&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaasaan&show_icons=true&theme=radical) 
